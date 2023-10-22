@@ -1,0 +1,10 @@
+@import "./CSS/components/variables.css";
+@import "./CSS/components/globals.css";
+
+@import "./CSS/components/navbar.css";
+@import "./CSS/components/header.css";
+@import "./CSS/components/about.css";
+@import "./CSS/components/projects.css";
+@import "./CSS/components/footer.css";
+@import "./CSS/components/contato.css";
+@import "./CSS/components/formacao.css"
